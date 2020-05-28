@@ -1,3 +1,4 @@
+[![Build Status](https://devalian.visualstudio.com/MsLearningTest2/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://devalian.visualstudio.com/MsLearningTest2/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
